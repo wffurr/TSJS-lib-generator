@@ -70,15 +70,6 @@
                     }
                 }
             },
-            "Clipboard": {
-                "methods": {
-                    "method": {
-                        "read": null,
-                        "write": null
-                    }
-                }
-            },
-            "ClipboardItem": null,
             "Console": null,
             "Coordinates": null,
             "CSS": null,
